@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34237194/README.md)# Artias Website Prototype
+[README.md](https://github.com/user-attachments/files/34237387/README.md)# Artias Website Prototype
 
 A responsive, interactive front-end prototype for the Artias digital art marketplace.
 
